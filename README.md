@@ -1,6 +1,7 @@
 # Prerequisites
 #######
 # making changes for tags
+# Tag 3.5.4
 - JDK 11 
 - Maven 3 
 - MySQL 8
